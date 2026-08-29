@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-    avatar: "/my-avatar.png",
+    avatar: "/my-avatar.jpg",
     name: "四时小路komichi",
     bio: "虚拟艺人团体VirtuaReal成员,以JK身份活动的都市传说四时小路参上",
     links: [
