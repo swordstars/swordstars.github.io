@@ -53,28 +53,26 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/my-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "四时小路komichi",
-	bio: "虚拟艺人团体VirtuaReal成员，以JK身份活动的都市传说四时小路参上！",
-	links: [
-		{
-			name: "主页",
-			icon: "fa6-solid:link", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://b23.tv/OOLOSTI",
-		},
-		{
-			name: "直播",
-			icon: "fa6-solid:link",
-			url: "https://b23.tv/hRDz042",
-		},
-		{
-			name: "首播",
-			icon: "fa6-solid:link",
-			url: "https://b23.tv/4FAyrDg",
-		},
-	],
+    avatar: "assets/images/my-avatar.png",
+    name: "四时小路komichi",
+    bio: "虚拟艺人团体VirtuaReal成员，以JK身份活动的都市传说四时小路参上！",
+    links: [
+        {
+            name: "主页",
+            icon: "fa6-solid:link",
+            url: "https://b23.tv/OOLOSTI",
+        },
+        {
+            name: "直播",
+            icon: "fa6-solid:link",
+            url: "https://b23.tv/hRDz042",
+        },
+        {
+            name: "首播",
+            icon: "fa6-solid:link",
+            url: "https://b23.tv/4FAyrDg",
+        },
+    ],
 };
 
 export const licenseConfig: LicenseConfig = {
