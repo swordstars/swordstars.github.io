@@ -55,8 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/my-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "四时小路komichi",
-	bio: "虚拟艺人团体VirtuaReal成员，以JK身份活动的都市传说
-四时小路参上！",
+	bio: "虚拟艺人团体VirtuaReal成员，以JK身份活动的都市传说四时小路参上！",
 	links: [
 		{
 			name: "主页",
