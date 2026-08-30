@@ -9,11 +9,15 @@ draft: false
 
 欢迎来到四时小路粉丝网站！这里是一个收集二创、音乐和记录的温暖小窝。
 
-**网站地址：** [https://komichi-vup.com/](https://komichi-vup.com/)
+<p>
+  <strong>网站地址：</strong>
+  <a href="https://komichi-vup.com/" target="_blank">https://komichi-vup.com/</a>
+</p>
 
-**作者主页：** [https://b23.tv/egYPBMI](https://b23.tv/egYPBMI)
-
----
+<p>
+  <strong>作者主页：</strong>
+  <a href="https://b23.tv/egYPBMI" target="_blank">https://b23.tv/egYPBMI</a>
+</p>
 
 ## 网站界面预览
 
@@ -21,7 +25,6 @@ draft: false
     <img src="/b1.jpg" alt="网站截图" width="600" />
 </div>
 
----
 
 ## 主要功能
 
