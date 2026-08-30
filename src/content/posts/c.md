@@ -4,7 +4,7 @@ published: 2026-08-30
 description: "每周同步四时小路的都市传说观察资讯、出发记录、传单情报与珍贵影像。"
 category: "网站推荐"
 tags: ["四时小路", "网站"]
-cover: "/cover1.jpg"
+cover: "/c2.jpg"
 draft: false
 ---
 
