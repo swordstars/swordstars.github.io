@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
         {
             name: "首播",
             icon: "fa6-solid:link",
-            url: "https://www.bilibili.com/video/BV12iuG6zEt5",
+            url: "https://www.bilibili.com/video/BV1EMuh6rEwr",
         },
     ],
 };
