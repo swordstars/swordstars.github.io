@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
         {
             name: "首播",
             icon: "fa6-solid:link",
-            url: "https://www.bilibili.com/video/BV12iuG6zEt5/?spm_id_from=333.1387.collection.video_card.click&vd_source=e855c2dc0a8e9d738b1f6667a1fff434",
+            url: "https://www.bilibili.com/video/BV12iuG6zEt5",
         },
     ],
 };
